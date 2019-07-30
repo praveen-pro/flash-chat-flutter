@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533230122788",
+    "firebase_url": "https://flash-chat-12fba.firebaseio.com",
+    "project_id": "flash-chat-12fba",
+    "storage_bucket": "flash-chat-12fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533230122788:android:6ad5284125e7f9a6",
+        "android_client_info": {
+          "package_name": "co.praveen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533230122788-rbleglalukbp686e1iq4j1lk0358vtok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJRtAzWyZ4QngzRaLUFnqcafqc1zZaIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533230122788-rbleglalukbp686e1iq4j1lk0358vtok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
